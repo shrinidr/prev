@@ -1,25 +1,11 @@
-import React, { useEffect, useMemo, useState } from 'react'
+import React, {useMemo} from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { ARTICLES } from '../data/articles'
-import type { Article as ArticleType } from '../types'
 import ArticleMd from '../components/articledata'
 
 const Article: React.FC = () => {
   const { slug } = useParams<{ slug: string }>()
   const article = useMemo(() => ARTICLES.find(a => a.slug === slug), [slug])
-
-  const [visibleSections, setVisibleSections] = useState<number>(0)
-  useEffect(() => {
-    setVisibleSections(0)
-    if (!article) return
-    let i = 0
-    const id = setInterval(() => {
-      i += 1
-      setVisibleSections(v => (v < article.sections.length ? v + 1 : v))
-      if (i >= article.sections.length) clearInterval(id)
-    }, 250)
-    return () => clearInterval(id)
-  }, [article])
 
   if (!article) {
     return (
