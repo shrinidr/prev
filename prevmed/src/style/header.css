@@ -1,0 +1,25 @@
+/* Dropdown.css */
+
+.select {
+  appearance: none; /* remove native styling */
+  background-color: black;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.select:hover {
+  background-color: #222; /* slightly lighter black on hover */
+  color: white;
+}
+
+.select option {
+  background-color: black;
+  color: white;
+  padding: 0.5rem;
+}
