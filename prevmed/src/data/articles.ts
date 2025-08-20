@@ -19,7 +19,7 @@ export const ARTICLES: Article[] = [
     excerpt: 'Know the subtle cognitive and behavioral changes that often precede a diagnosis and what to do early.',
     publishedAt: '2025-08-12',
     readingMinutes: 6,
-    hero: 'dementia.jpg',
+    hero: 'images/dementia.jpg',
     sections: [
       { h: 'Why prevention matters', p: 'Cognitive reserve can be built with sleep, exercise, and social engagement. Early changes can be addressed.' },
       { h: 'Early signs', p: 'Navigation issues, word-finding difficulty, new apathy. Track patterns over weeks, not hours.' },
@@ -33,7 +33,7 @@ export const ARTICLES: Article[] = [
     excerpt: 'Relapses are predictable. Build routines and prodrome checklists that actually get used.',
     publishedAt: '2025-08-10',
     readingMinutes: 7,
-    hero: 'schizophrenia_stock_photo.png',
+    hero: '/images/schizophrenia_stock_photo.png',
     sections: [
       { h: 'Know the prodrome', p: 'Sleep reversal, social withdrawal, and new suspiciousness often precede relapse.' },
       { h: 'Protective habits', p: 'Fixed sleep/wake window, medication adherence, and trigger logs reduce risk.' },
@@ -46,7 +46,7 @@ export const ARTICLES: Article[] = [
     excerpt: 'Most stones are preventable. Urine dilution and citrate are your friends.',
     publishedAt: '2025-08-03',
     readingMinutes: 4,
-    hero: 'kidney.jpg',
+    hero: '/images/kidney.jpg',
     sections: [
       { h: 'Targets', p: 'Aim for urine output ≥2.5L/day. Lemon/lime for citrate. Moderate sodium; don’t crash calcium.' },
     ],
@@ -58,7 +58,7 @@ export const ARTICLES: Article[] = [
     excerpt: 'Peak-flow tracking and environment control do more than heroic rescue inhaler use.',
     publishedAt: '2025-08-05',
     readingMinutes: 5,
-    hero: 'asthma.jpg',
+    hero: '/images/asthma.jpg',
     sections: [
       { h: 'Home controls', p: 'Dust-mite covers, HEPA filtration, no smoking, humidity control 40–50%.' },
       { h: 'Daily monitoring', p: 'Peak flow in the morning; action plan thresholds prevent ER visits.' },
