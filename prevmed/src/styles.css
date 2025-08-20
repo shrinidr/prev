@@ -33,7 +33,7 @@ footer{border-top:1px solid var(--border); border-bottom:none}
 .button{border:1px solid var(--border); background:var(--fg); color:var(--bg); padding:10px 14px; border-radius:4px; font-weight:600; cursor:pointer}
 .button.ghost{background:transparent; color:var(--fg)}
 
-.hero{background:var(--muted); border-bottom:1px solid var(--border)}
+.hero{background:var(--muted); border-bottom:1px solid var(--border); background-color: black; color: white}
 .section{padding:56px 0}
 .section.alt{background:var(--muted-2); border-top:1px solid var(--border); border-bottom:1px solid var(--border)}
 .h1{font-size:40px; line-height:1.1; margin:0 0 12px; letter-spacing:-.02em}
@@ -50,19 +50,19 @@ footer{border-top:1px solid var(--border); border-bottom:none}
   background: var(--bg);
   display: flex;
   flex-direction: column;
-  height: 400px; /* fixed height for all cards */
+  height: 80vh; /* fixed height for all cards */
   width: 50vh;   /* keep your chosen width */
   overflow: hidden;
 }
 
 .card img {
-  height: 50%;          /* take half the card */
+  height: 90%;          /* take half the card */
   width: 100%;          /* full width */
   object-fit: cover;    /* crop the image if needed */
 }
 
 .card-body {
-  height: 50%;          /* other half of the card */
+  height: 20%;          /* other half of the card */
   padding: 16px;
   display: flex;
   flex-direction: column;

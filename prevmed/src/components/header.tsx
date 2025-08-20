@@ -37,7 +37,6 @@ export default function Header(){
             value={q}
             onChange={e => setParam('q', (e.target as HTMLInputElement).value)}
           />
-          <Link to="/" className="button ghost">Home</Link>
         </nav>
       </div>
     </header>

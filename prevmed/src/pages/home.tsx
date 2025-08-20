@@ -22,7 +22,7 @@ const Home: React.FC = () => {
       <section className="hero section">
         <div className="container">
           <h1 className="h1">Preventive medicine, explained plainly.</h1>
-          <p className="p-lead">
+          <p className="p-lead" style={{color:'white'}}>
             Concise, no‑nonsense guidance that helps you avoid problems before they start.
           </p>
         </div>
