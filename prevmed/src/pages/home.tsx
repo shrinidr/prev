@@ -28,6 +28,22 @@ const Home: React.FC = () => {
         </div>
       </section>
 
+      <section className="section">
+        <div className="container">
+          <div className="kicker">What we do</div>
+          <h2 style={{margin:'8px 0 12px'}}>Focused on prevention, not hype</h2>
+          <p className="p-lead">
+            This platform is meant to give evidence based advice on prevention of various 
+            diseases and for staying healthy. No biohacks involved :)
+          </p>
+          <p style={{marginTop:12}}>
+            Browse by category in the header. Each article is short, structured, and practical.
+          </p>
+          <p style={{marginTop:16}}>
+            <Link className="button" to="/">Start reading</Link>
+          </p>
+        </div>
+      </section>
       <section className="section alt">
         <div className="container">
           <div className="kicker">Recent stories</div>
@@ -41,22 +57,7 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      <section className="section">
-        <div className="container">
-          <div className="kicker">What we do</div>
-          <h2 style={{margin:'8px 0 12px'}}>Focused on prevention, not hype</h2>
-          <p className="p-lead">
-            We summarize actionable habits, early warning signs, and risk-cutting tactics for common
-            mental and physical conditions.
-          </p>
-          <p style={{marginTop:12}}>
-            Browse by category in the header. Each article is short, structured, and practical.
-          </p>
-          <p style={{marginTop:16}}>
-            <Link className="button" to="/">Start reading</Link>
-          </p>
-        </div>
-      </section>
+
     </>
   )
 }

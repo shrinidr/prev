@@ -35,6 +35,7 @@ footer{border-top:1px solid var(--border); border-bottom:none}
 
 .hero{background:var(--muted); border-bottom:1px solid var(--border); background-color: black; color: white}
 .section{padding:56px 0}
+.section p{max-width: 120vh;}
 .section.alt{background:var(--muted-2); border-top:1px solid var(--border); border-bottom:1px solid var(--border)}
 .h1{font-size:40px; line-height:1.1; margin:0 0 12px; letter-spacing:-.02em}
 .p-lead{font-size:18px; color:#222; max-width:800px}
