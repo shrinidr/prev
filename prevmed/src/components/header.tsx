@@ -20,7 +20,7 @@ export default function Header(){
   return (
     <header>
       <div className="container header">
-        <Link to="/" className="brand">Preventive Health</Link>
+        <Link to="/" className="brand">Preventivity</Link>
         <nav className="nav">
           <select
             className="select"
