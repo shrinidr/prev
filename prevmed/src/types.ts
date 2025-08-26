@@ -6,6 +6,7 @@ export type Category =
   | 'Metabolic & Lifestyle Disorders'
   | 'Vision'
   | 'Dental & Oral Health'
+  | 'Cardiovascular Disorders'
   | 'General'
   | 'Respiratory Disorders'
 

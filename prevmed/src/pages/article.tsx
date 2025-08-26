@@ -21,7 +21,8 @@ const Article: React.FC = () => {
     "vision": 'Vision',
     "dental" : 'Dental & Oral Health',
     "gen": 'General',
-    "resp": "Respiratory Disorders"}
+    "resp": "Respiratory Disorders",
+    "cardio": "Cardiovascular Disorders"}
 
   const filtered = useMemo(() => {
     return ARTICLES
@@ -67,8 +68,7 @@ const Article: React.FC = () => {
           <div style={{paddingTop:24, paddingBottom:34}}>
             <Link to="/" className="button ghost">Back</Link>
           </div>
-        <p style={{fontSize:27}}> <b>People also read</b></p> 
-        <section className="section alt">
+        {recent.length!=0?<p style={{fontSize:27}}> <b>People also read</b></p>:<div/>}
         <div className="container">
           <div className="grid" style={{marginTop:12}}>
             {recent.map(a => (
@@ -78,7 +78,6 @@ const Article: React.FC = () => {
             ))}
           </div>
         </div>
-      </section>
         </div>
       </section>
     </>
