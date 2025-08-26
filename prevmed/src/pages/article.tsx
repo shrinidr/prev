@@ -13,6 +13,16 @@ const Article: React.FC = () => {
   const category = params.get('category') ?? 'All'
   const q = (params.get('q') ?? '').toLowerCase().trim()
 
+  
+  const slugToCat: Record<string, string> = {"mental": 'Mental & Neurological Disorders',
+    "digest": "Digestive & Gastrointestinal Disorders",
+    "renal":'Renal Diseases',
+    "metabol": 'Metabolic & Lifestyle Disorders',
+    "vision": 'Vision',
+    "dental" : 'Dental & Oral Health',
+    "gen": 'General',
+    "resp": "Respiratory Disorders"}
+
   const filtered = useMemo(() => {
     return ARTICLES
       .filter(a => category === 'All' ? true : a.category === category)
@@ -20,7 +30,18 @@ const Article: React.FC = () => {
       .sort((a,b) => +new Date(b.publishedAt) - +new Date(a.publishedAt))
   }, [category, q])
 
-  const recent = filtered.slice(0, 9)
+
+  let recent = filtered.slice(0, 9)
+  console.log("recent", recent)
+  
+  const key = slug?.split('-')[0] 
+  if (key)
+  {
+    const anna = slugToCat[key]
+    recent = recent.filter(item => item["category"] === anna)
+            .filter(item => item["slug"] != slug)
+  }
+
   if (!article) {
     return (
       <div className="container section">

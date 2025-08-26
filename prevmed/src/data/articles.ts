@@ -1,21 +1,23 @@
 import type { Article, Category } from '../types'
 
 export const CATEGORIES: Category[] = [
-  'Diseases',
-  'Dementia',
-  'Schizophrenia',
-  'Kidney Stones',
-  'Asthma',
-  'Cardiovascular',
-  'Diabetes',
-  'Sleep',
+  'Mental & Neurological Disorders',
+  'Digestive & Gastrointestinal Disorders',
+  'Renal Diseases',
+  'Metabolic & Lifestyle Disorders',
+  'Vision',
+  'Dental & Oral Health',
+  'General',
+  'Respiratory Disorders',
+  'Diseases'
 ]
+
 
 export const ARTICLES: Article[] = [
   {
-    slug: 'dementia-early-signs-checklist',
+    slug: 'mental-dementia-early-signs-checklist',
     title: 'Dementia: Early Signs You Shouldnt Ignore',
-    category: 'Dementia',
+    category: 'Mental & Neurological Disorders',
     excerpt: 'Know the subtle cognitive and behavioral changes that often precede a diagnosis and what to do early.',
     publishedAt: '2025-08-12',
     readingMinutes: 6,
@@ -27,9 +29,9 @@ export const ARTICLES: Article[] = [
     ],
   },
   {
-    slug: 'schizophrenia-relapse-prevention',
+    slug: 'mental-schizophrenia-relapse-prevention',
     title: 'Schizophrenia: Relapse Prevention 101',
-    category: 'Schizophrenia',
+    category: 'Mental & Neurological Disorders',
     excerpt: 'Relapses are predictable. Build routines and prodrome checklists that actually get used.',
     publishedAt: '2025-08-10',
     readingMinutes: 7,
@@ -40,9 +42,9 @@ export const ARTICLES: Article[] = [
     ],
   },
   {
-    slug: 'kidney-stones-hydration-playbook',
+    slug: 'renal-kidney-stones-hydration-playbook',
     title: 'Kidney Stones: Hydration Playbook',
-    category: 'Kidney Stones',
+    category: 'Renal Diseases',
     excerpt: 'Most stones are preventable. Urine dilution and citrate are your friends.',
     publishedAt: '2025-08-03',
     readingMinutes: 4,
@@ -52,9 +54,9 @@ export const ARTICLES: Article[] = [
     ],
   },
   {
-    slug: 'asthma-trigger-minimization',
+    slug: 'resp-asthma-trigger-minimization',
     title: 'Asthma: Cut Your Triggers, Cut Your Flares',
-    category: 'Asthma',
+    category: 'Respiratory Disorders',
     excerpt: 'Peak-flow tracking and environment control do more than heroic rescue inhaler use.',
     publishedAt: '2025-08-05',
     readingMinutes: 5,

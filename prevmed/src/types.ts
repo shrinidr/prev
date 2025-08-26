@@ -1,12 +1,13 @@
 export type Category =
   | 'Diseases'
-  | 'Dementia'
-  | 'Schizophrenia'
-  | 'Kidney Stones'
-  | 'Asthma'
-  | 'Cardiovascular'
-  | 'Diabetes'
-  | 'Sleep'
+  | 'Mental & Neurological Disorders'
+  | 'Digestive & Gastrointestinal Disorders'
+  | 'Renal Diseases'
+  | 'Metabolic & Lifestyle Disorders'
+  | 'Vision'
+  | 'Dental & Oral Health'
+  | 'General'
+  | 'Respiratory Disorders'
 
 export interface ArticleSection { h: string; p: string }
 
