@@ -23,3 +23,40 @@
   color: white;
   padding: 0.5rem;
 }
+
+
+
+@media (max-width: 640px) {
+  .container.header {
+    display: flex;
+    flex-direction: column; /* stack rows vertically */
+    align-items: center; /* center children horizontally */
+    width: 100%;
+    padding: 0.5rem;
+  }
+
+  .brand-select-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%; /* take full width */
+    padding: 0 1rem;
+  }
+
+  .brand {
+    margin: 0; /* reset margin-left */
+    font-size: 1.2rem;
+    padding-bottom: 5%;
+    padding-top: 5%;
+  }
+
+  .select {
+    margin-left: 11%; /* remove crazy margin */
+    width: 36%; /* shrink to fit */
+  }
+
+  .search {
+    margin-top: 0.3%;
+    width: 90%; /* centered and wide */
+  }
+}
