@@ -1,18 +1,18 @@
 **Hygiene**
 
 Adolf Hitler, Howard Hughes, and Saddam Hussein suffered from a
-condition called mysophobia. It is a [pathological
-fear](https://en.wikipedia.org/wiki/Phobia) of contamination
-and [germs](https://en.wikipedia.org/wiki/Microorganism). The term was
+condition called mysophobia. It is a [<u>pathological
+fear</u>](https://en.wikipedia.org/wiki/Phobia) of contamination
+and [<u>germs</u>](https://en.wikipedia.org/wiki/Microorganism). The term was
 coined in 1879 when a case of obsessive--compulsive disorder (OCD)
 exhibited repeated hands washing.
 
 That brings us to the topic of hygiene.
 
 Cambridge dictionary defines hygiene as
-"the [degree](https://dictionary.cambridge.org/dictionary/english/degree) to
-which [people](https://dictionary.cambridge.org/dictionary/english/people) [keep](https://dictionary.cambridge.org/dictionary/english/keep) themselves
-or [their](https://dictionary.cambridge.org/dictionary/english/their) [environment](https://dictionary.cambridge.org/dictionary/english/environment) [clean](https://dictionary.cambridge.org/dictionary/english/clean), [especially](https://dictionary.cambridge.org/dictionary/english/especially) to [prevent](https://dictionary.cambridge.org/dictionary/english/prevent) [disease](https://dictionary.cambridge.org/dictionary/english/disease)".
+"the [<u>degree</u>](https://dictionary.cambridge.org/dictionary/english/degree) to
+which [<u>people</u>](https://dictionary.cambridge.org/dictionary/english/people) [<u>keep</u>](https://dictionary.cambridge.org/dictionary/english/keep) themselves
+or [<u>their</u>](https://dictionary.cambridge.org/dictionary/english/their) [<u>environment</u>](https://dictionary.cambridge.org/dictionary/english/environment) [<u>clean</u>](https://dictionary.cambridge.org/dictionary/english/clean), [<u>especially</u>](https://dictionary.cambridge.org/dictionary/english/especially) to [<u>prevent</u>](https://dictionary.cambridge.org/dictionary/english/prevent) [<u>disease</u>](https://dictionary.cambridge.org/dictionary/english/disease)".
 
 CDC says "Hygiene refers to behaviours that can improve cleanliness and
 lead to good health."

@@ -16,8 +16,7 @@ particularly saturated and trans fats.
 At least 400 grams of fruits and vegetables should be consumed daily.
 
 ![A balanced diet: what is it and how to achieve it \| IGA
-Supermarkets](media/image1.jpeg){width="3.3472222222222223in"
-height="2.2147451881014875in"}
+Supermarkets](/images/diety.jpg)
 
 **Key Recommendations:**
 
@@ -93,13 +92,11 @@ factors, including age, sex, height, weight, and activity level.
 
 **General Recommendations:**
 
-  -----------------------------------------------------------------------
-  **Sex**                             **Recommended daily calories**
-  ----------------------------------- -----------------------------------
-  Men                                 2,000 to 3,000 calories per day
-
-  Women                               1,600 to 2,400 calories per day
-  -----------------------------------------------------------------------
+  
+| **Sex** | **Recommended daily calories**       |
+|---------|--------------------------------------|
+| Men     | 2,000 to 3,000 calories per day       |
+| Women   | 1,600 to 2,400 calories per day       |
 
 **Important Considerations:**
 
@@ -129,16 +126,15 @@ factors, including age, sex, height, weight, and activity level.
 The Dietary Guidelines for Americans recommend the following proportion
 of macronutrients in the diet:
 
-  -----------------------------------------------------------------------
-  **Macronutrient**                   **Recommended proportion in daily
-                                      calories**
-  ----------------------------------- -----------------------------------
-  carbohydrates                       45% to 65%
 
-  fat                                 20% to 35%
 
-  protein                             10% to 35%
-  -----------------------------------------------------------------------
+| **Macronutrient** | **Recommended proportion in daily calories**|
+|---------|--------------------------------------|
+| Carbohydrates     | 45% to 65%      |
+| Fat   | 20% to 35%       |
+| Protein   | 10% to 35%       |
+
+
 
 Please note that the specific percentages can vary based on individual
 needs and activity levels. 

@@ -13,12 +13,10 @@ The literal meaning of \"cirrhosis\" is scarring of the liver. The term
 originates from the Greek word \"kirrhos,\" meaning \"yellowish,\"
 referring to the appearance of the diseased liver.
 
-**Globally, cirrhosis caused over 1.47 million deaths in 2019,
-constituting 2.6% of all deaths worldwide.**
+**Globally, cirrhosis caused over 1.47 million deaths in 2019,constituting 2.6% of all deaths worldwide.**
 
 ![Cirrhosis: Severe Liver
-Scarring](media/image1.jpeg){width="3.4930555555555554in"
-height="1.9648436132983378in"}
+Scarring](/images/liveryy.jpg)
 
 **fatty liver disease (FLD**), is a common liver condition, especially
 in people who are overweight or obese, and it\'s becoming increasingly
@@ -31,22 +29,21 @@ diabetes, high cholesterol, high blood pressure, and metabolic
 syndrome. It can also be linked to excessive alcohol consumption. 
 
 ![What Causes
-Cirrhosis?](media/image2.jpeg){width="2.8472222222222223in"
-height="2.461013779527559in"}
+Cirrhosis?](/images/liver2.jpg)
 
 In some cases, FLD can progress to a more severe condition called
 **non-alcoholic steatohepatitis (NASH)**, which is characterized by
 inflammation and damage to the liver. 
 
 If NASH progresses, it can lead to **liver scarring (fibrosis),** and
-eventually, **cirrhosis. **
+eventually, **cirrhosis.**
 
 **Cirrhosis** is a permanent condition, characterized by widespread
 scarring and nodules that disrupt the liver\'s structure and function. 
 
-Cirrhosis can lead to various complications, including **liver failure,
-portal hypertension** (high blood pressure in the portal vein), and an
-increased risk of **liver cancer. **
+Cirrhosis can lead to various complications, including liver failure,
+portal hypertension (high blood pressure in the portal vein), and an
+increased risk of **liver cancer.**
 
 - the global prevalence of **non-alcoholic fatty liver disease (NAFLD)**
   is about 30.2%. 
@@ -74,9 +71,9 @@ The ideal solution will be to not drink any alcohol at all (even a low
 consumption of alcohol can cause cancers as per WHO, 2023).
 
 If that is not possible, the consumption should be less than
-two [drinks](https://www.cdc.gov/alcohol/standard-drink-sizes/index.html#cdc_generic_section_2-standard-alcohol-drink-sizes) or
+two [<u>drinks</u>](https://www.cdc.gov/alcohol/standard-drink-sizes/index.html#cdc_generic_section_2-standard-alcohol-drink-sizes) or
 less in a day for men and
-one [drink](https://www.cdc.gov/alcohol/standard-drink-sizes/index.html#cdc_generic_section_2-standard-alcohol-drink-sizes) or
+one [<u>drink</u>](https://www.cdc.gov/alcohol/standard-drink-sizes/index.html#cdc_generic_section_2-standard-alcohol-drink-sizes) or
 less in a day for women.
 
 **Prevention of non-alcoholic liver disease**

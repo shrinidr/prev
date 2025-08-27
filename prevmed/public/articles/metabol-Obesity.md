@@ -11,21 +11,20 @@ dysfunctional and cause inflammation, further contributing to health
 problems. 
 
 ![Obesity \| Definition, Causes, Health
-\...](media/image1.jpeg){width="2.8680555555555554in"
-height="1.9027777777777777in"}
+\...](/images/obesity1.jpg)
 
 **Epidemiology**
 
 - In 2022, 43% of adults worldwide were overweight (BMI ≥ 25), and 16%
-  were obese (BMI ≥ 30), [according to the World Health
-  Organization](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight). 
+  were obese (BMI ≥ 30), [<u>according to the World Health
+  Organization</u>](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight). 
 
 - Overweight and obesity rates have more than doubled since 1980. 
 
 - Obesity prevalence varies significantly across different
-  regions. The [Americas](https://www.google.com/search?safe=active&sca_esv=4976e9c85346e08a&rlz=1C1CHBD_enIN1116IN1117&sxsrf=AE3TifPccLmp2y6HUBa2yA9YxOIvXrIBSg%3A1755175050965&q=Americas&sa=X&ved=2ahUKEwiNxbnLqIqPAxVX3jgGHabBAuYQxccNegQIdBAB&mstk=AUtExfCAqTP_Re6Ix_eeRXydk8pHggErTq6TBmGUBwVjdz8eNHkD1ofpIRdqb_dFk9hc6Sdr1t4F4CljWp21dEnPkLoJoHcOBADKl4vuRjZBE8BzrAuzde95z82aTmnR8Bt6_1CfaHxdVfzLr9nbTwX3VUuZjzgtMrtE3qdpaawQpQLM_VcsJ3BEArdTL-AhkNcK-blTT7Y96458qV1RuUtXMq8EGlMmQuo9ubAP_T-kr2aOxV0kGryf7tkDtY7maZs5rKF9Ql3u1OMt05_F5TN6kTMxWRAfmq4bFPaJ5uwgPxiJDw&csui=3) have
+  regions. The [<u>Americas</u>](https://www.google.com/search?safe=active&sca_esv=4976e9c85346e08a&rlz=1C1CHBD_enIN1116IN1117&sxsrf=AE3TifPccLmp2y6HUBa2yA9YxOIvXrIBSg%3A1755175050965&q=Americas&sa=X&ved=2ahUKEwiNxbnLqIqPAxVX3jgGHabBAuYQxccNegQIdBAB&mstk=AUtExfCAqTP_Re6Ix_eeRXydk8pHggErTq6TBmGUBwVjdz8eNHkD1ofpIRdqb_dFk9hc6Sdr1t4F4CljWp21dEnPkLoJoHcOBADKl4vuRjZBE8BzrAuzde95z82aTmnR8Bt6_1CfaHxdVfzLr9nbTwX3VUuZjzgtMrtE3qdpaawQpQLM_VcsJ3BEArdTL-AhkNcK-blTT7Y96458qV1RuUtXMq8EGlMmQuo9ubAP_T-kr2aOxV0kGryf7tkDtY7maZs5rKF9Ql3u1OMt05_F5TN6kTMxWRAfmq4bFPaJ5uwgPxiJDw&csui=3) have
   the highest rates, while the [WHO South-East Asia
-  Region](https://www.google.com/search?safe=active&sca_esv=4976e9c85346e08a&rlz=1C1CHBD_enIN1116IN1117&sxsrf=AE3TifPccLmp2y6HUBa2yA9YxOIvXrIBSg%3A1755175050965&q=WHO+South-East+Asia+Region&sa=X&ved=2ahUKEwiNxbnLqIqPAxVX3jgGHabBAuYQxccNegQIdBAC&mstk=AUtExfCAqTP_Re6Ix_eeRXydk8pHggErTq6TBmGUBwVjdz8eNHkD1ofpIRdqb_dFk9hc6Sdr1t4F4CljWp21dEnPkLoJoHcOBADKl4vuRjZBE8BzrAuzde95z82aTmnR8Bt6_1CfaHxdVfzLr9nbTwX3VUuZjzgtMrtE3qdpaawQpQLM_VcsJ3BEArdTL-AhkNcK-blTT7Y96458qV1RuUtXMq8EGlMmQuo9ubAP_T-kr2aOxV0kGryf7tkDtY7maZs5rKF9Ql3u1OMt05_F5TN6kTMxWRAfmq4bFPaJ5uwgPxiJDw&csui=3) and [Africa](https://www.google.com/search?safe=active&sca_esv=4976e9c85346e08a&rlz=1C1CHBD_enIN1116IN1117&sxsrf=AE3TifPccLmp2y6HUBa2yA9YxOIvXrIBSg%3A1755175050965&q=Africa&sa=X&ved=2ahUKEwiNxbnLqIqPAxVX3jgGHabBAuYQxccNegQIdBAD&mstk=AUtExfCAqTP_Re6Ix_eeRXydk8pHggErTq6TBmGUBwVjdz8eNHkD1ofpIRdqb_dFk9hc6Sdr1t4F4CljWp21dEnPkLoJoHcOBADKl4vuRjZBE8BzrAuzde95z82aTmnR8Bt6_1CfaHxdVfzLr9nbTwX3VUuZjzgtMrtE3qdpaawQpQLM_VcsJ3BEArdTL-AhkNcK-blTT7Y96458qV1RuUtXMq8EGlMmQuo9ubAP_T-kr2aOxV0kGryf7tkDtY7maZs5rKF9Ql3u1OMt05_F5TN6kTMxWRAfmq4bFPaJ5uwgPxiJDw&csui=3) have
+  Region](https://www.google.com/search?safe=active&sca_esv=4976e9c85346e08a&rlz=1C1CHBD_enIN1116IN1117&sxsrf=AE3TifPccLmp2y6HUBa2yA9YxOIvXrIBSg%3A1755175050965&q=WHO+South-East+Asia+Region&sa=X&ved=2ahUKEwiNxbnLqIqPAxVX3jgGHabBAuYQxccNegQIdBAC&mstk=AUtExfCAqTP_Re6Ix_eeRXydk8pHggErTq6TBmGUBwVjdz8eNHkD1ofpIRdqb_dFk9hc6Sdr1t4F4CljWp21dEnPkLoJoHcOBADKl4vuRjZBE8BzrAuzde95z82aTmnR8Bt6_1CfaHxdVfzLr9nbTwX3VUuZjzgtMrtE3qdpaawQpQLM_VcsJ3BEArdTL-AhkNcK-blTT7Y96458qV1RuUtXMq8EGlMmQuo9ubAP_T-kr2aOxV0kGryf7tkDtY7maZs5rKF9Ql3u1OMt05_F5TN6kTMxWRAfmq4bFPaJ5uwgPxiJDw&csui=3) and [<u>Africa</u>](https://www.google.com/search?safe=active&sca_esv=4976e9c85346e08a&rlz=1C1CHBD_enIN1116IN1117&sxsrf=AE3TifPccLmp2y6HUBa2yA9YxOIvXrIBSg%3A1755175050965&q=Africa&sa=X&ved=2ahUKEwiNxbnLqIqPAxVX3jgGHabBAuYQxccNegQIdBAD&mstk=AUtExfCAqTP_Re6Ix_eeRXydk8pHggErTq6TBmGUBwVjdz8eNHkD1ofpIRdqb_dFk9hc6Sdr1t4F4CljWp21dEnPkLoJoHcOBADKl4vuRjZBE8BzrAuzde95z82aTmnR8Bt6_1CfaHxdVfzLr9nbTwX3VUuZjzgtMrtE3qdpaawQpQLM_VcsJ3BEArdTL-AhkNcK-blTT7Y96458qV1RuUtXMq8EGlMmQuo9ubAP_T-kr2aOxV0kGryf7tkDtY7maZs5rKF9Ql3u1OMt05_F5TN6kTMxWRAfmq4bFPaJ5uwgPxiJDw&csui=3) have
   the lowest. 
 
 - Childhood and adolescent obesity are also major public health

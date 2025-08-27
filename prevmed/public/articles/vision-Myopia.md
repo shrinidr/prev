@@ -17,8 +17,7 @@ directly on it. 
   tendency to progress during these years.
 
 ![How to Choose a Myopia Control Treatment \| Foresee
-Eyecare](media/image1.jpeg){width="6.268055555555556in"
-height="4.113410979877515in"}
+Eyecare](/images/myo1.jpg)
 
 **Risk Factors:**
 
@@ -43,8 +42,7 @@ height="4.113410979877515in"}
   and coordination) may also increase risk.
 
 ![Myopia Treatment: Manage Nearsightedness
-Effectively](media/image2.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+Effectively](/images/myo2.png)
 
 **Prevention**
 
@@ -67,5 +65,4 @@ height="4.701042213473316in"}
   are some options for myopia management.
 
 ![Eye glasses for myopia control in children \| My Kids
-Vision](media/image3.png){width="6.268055555555556in"
-height="3.5275218722659667in"}
+Vision](/images/myo3.png)

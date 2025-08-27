@@ -11,7 +11,7 @@ The disease was first described in 1797. Initially it was thought to be
 dementia. In 1908, it was renamed schizophrenia by Eugen Bleuler, a
 Swiss psychiatrist. The word, schizophrenia in Latin literally means \"splitting of the
 mind\". Its use denotes the separation of function
-between personality, thinking, memory, and perception. In the early 20th century, the psychiatrist[Kurt Schneider](https://en.wikipedia.org/wiki/Kurt_Schneider) categorized the
+between personality, thinking, memory, and perception. In the early 20th century, the psychiatrist[<u>Kurt Schneider</u>](https://en.wikipedia.org/wiki/Kurt_Schneider) categorized the
 psychotic symptoms of schizophrenia into two groups: hallucinations and
 delusions.
 

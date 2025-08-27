@@ -22,8 +22,7 @@ between 45 and 65.
 Several factors can be responsible, including dietary habits, lifestyle
 choices, and medical conditions.
 
-![Hemorrhoids - NIDDK](media/image1.jpeg){width="3.4375in"
-height="3.4375in"}
+![Hemorrhoids - NIDDK](/images/hemy.jpg)
 
 - Hemorrhoids are a **common condition,**
 
@@ -85,7 +84,7 @@ heavy lifting. 
 
 - **Avoid heavy lifting** and
 
-- **M**aintain a healthy **weight.**
+- **Maintain a healthy weight.**
 
 By addressing these risk factors, individuals can significantly reduce
 their risk of developing hemorrhoids and also manage if they already

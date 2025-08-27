@@ -10,9 +10,7 @@ Dental veneers, by the way, are thin, custom-made shells crafted from
 tooth-colored materials like porcelain or composite resin, designed to
 cover the front surface of teeth to improve their appearance. 
 
-![C:\\Users\\Dr. Prasad
-Kulkarni\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\37C25AF5.tmp](media/image1.jpeg){width="3.125in"
-height="1.75in"}
+![Teeth Lol](/images/teethy.jpg)
 
 **Dental caries, or tooth decay, is the most prevalent non-communicable
 disease globally**. 

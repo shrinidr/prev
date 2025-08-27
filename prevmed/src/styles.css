@@ -126,3 +126,18 @@ footer a:hover{border-bottom:1px solid var(--border)}
   border-radius: 4px;
   padding: 50px;
 }
+
+
+table {
+  border-collapse: collapse; /* removes double borders */
+  width: 50%; /* optional */
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+}

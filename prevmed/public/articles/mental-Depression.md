@@ -35,8 +35,7 @@ relationships, those who are divorced or separated, or widowed.
 Depression is also more prevalent in rural areas than in urban areas.
 
 ![Depression in Older People: Symptoms
-\...](media/image1.jpeg){width="2.8680555555555554in"
-height="1.9027777777777777in"}
+\...](/images/depre1.jpg)
 
 **Risk Factors:**
 

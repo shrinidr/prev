@@ -16,8 +16,7 @@ and ultimately is thrown out through urethra. This is what happens when
 we urinate.
 
 ![Kidney - Simple English Wikipedia, the free
-encyclopedia](media/image1.png){width="2.6041666666666665in"
-height="2.6041666666666665in"}
+encyclopedia](/images/cdk.jpg)
 
 CKD is a condition where the kidneys are damaged or have structural
 problems, making them unable to filter blood effectively.

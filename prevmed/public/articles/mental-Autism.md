@@ -24,8 +24,7 @@ polygenic. Environmental factors play a relatively small role, mainly
 prenatally.
 
 ![What Are Early Intervention Strategies for Autism? \| Dream Big
-Children\'s Center](media/image1.jpeg){width="3.6666666666666665in"
-height="2.4444444444444446in"}
+Children\'s Center](/images/autism1.jpg)
 
 Autism cannot be definitively prevented; however, you can work on the
 risk factors. Taking good care during pregnancy and minimizing exposure

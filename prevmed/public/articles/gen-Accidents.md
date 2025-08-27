@@ -1,11 +1,11 @@
 **Accidents**
 
-Princess Diana died in 1997 in a Paris road accident. Naya Rivera [died
+Princess Diana died in 1997 in a Paris road accident. Naya Rivera [<u>died
 in 2020 from an accidental
-drowning](https://www.buzzfeednews.com/article/olivianiland/naya-rivera-cause-of-death-was-accidental-drowning).
+drowning</u>](https://www.buzzfeednews.com/article/olivianiland/naya-rivera-cause-of-death-was-accidental-drowning).
 Paul Walker died in 2013 when a car he was in crashed into a tree and
-light post before bursting into flames. Aaliyah [died in a plane
-crash](https://www.nytimes.com/2001/09/08/arts/haste-errors-and-a-fallen-star.html) in
+light post before bursting into flames. Aaliyah [<u>died in a plane
+crash</u>](https://www.nytimes.com/2001/09/08/arts/haste-errors-and-a-fallen-star.html) in
 the Bahamas in 2001. Michael Schumacher suffered a traumatic brain
 injury from a skiing accident in the French Alps in December 2013.
 
@@ -41,7 +41,7 @@ Do you know that:
 groups.
 
 For example, road traffic injuries are a leading cause of death among
-those aged **5--29 years.**
+those aged **5-29 years.**
 
 **Risk Factors**
 

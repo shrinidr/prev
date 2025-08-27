@@ -27,8 +27,7 @@ that area to become damaged and eventually die if blood flow is not
 restored quickly. 
 
 ![Heart Attack: Symptoms, Causes, Diagnosis, Prevention,
-More](media/image1.jpeg){width="2.265378390201225in"
-height="1.7984383202099739in"}
+More](/images/hearty.jpg)
 
 **Epidemiology:**
 

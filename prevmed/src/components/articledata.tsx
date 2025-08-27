@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import rehypeRaw from "rehype-raw";
 
 interface ArticleProps {
   slug: string; // e.g. "article1"
@@ -22,7 +23,9 @@ export default function Article({ slug }: ArticleProps) {
 
   return (
     <div className="article">
-      <ReactMarkdown remarkPlugins={[remarkGfm]}>
+      <ReactMarkdown 
+      remarkPlugins={[remarkGfm]} 
+      rehypePlugins={[rehypeRaw]}>
         {content}
       </ReactMarkdown>
     </div>
