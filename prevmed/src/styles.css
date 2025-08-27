@@ -79,6 +79,7 @@ footer{border-top:1px solid var(--border); border-bottom:none}
 
 .badge{display:inline-block; font-size:12px; font-weight:700; text-transform:uppercase; border:1px solid var(--border); padding:2px 6px; border-radius:2px}
 .meta{font-size:12px; color:#333}
+.bulla{font-size:15px; color:#333;}
 .card-title{font-size:18px; margin:8px 0 6px}
 .card-desc{color:#1f1f1f}
 
